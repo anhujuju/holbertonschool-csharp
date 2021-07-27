@@ -18,3 +18,15 @@ class Program
         ImageProcessor.Thumbnail(filenames, 120);
     }
 }
+class Program : System
+{
+    static void Main(string[] args)
+    {
+        if (filenames)
+        {
+            for (int i = 0; i <0;){
+                filename = args;
+            }
+        }
+    }
+}
