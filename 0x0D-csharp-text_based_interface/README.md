@@ -33,4 +33,4 @@
 - [x] **[3. Inventory Manager Simulator](./InventoryManager.cs)** - Time to create the console application! Add a new console application called InventoryManager to the solution and add a reference to the InventoryLibrary
 - [x] **[4. Test 1, 2, 3](./InventoryManagement.Tests/)** - Your project must have unit tests! The number of tests is less important than the quality and effectiveness of your tests. Make sure you’re checking your object operations, edge cases, all user input possibilities, etc
 ## Author :pencil:
-**Santiago Peña Mosquera** - twitter [@santiagopemo](https://twitter.com/santiagopemo) - LinkedIn [Santiago Peña Mosquera](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)
+**Andres Felipe Rodriguez**
